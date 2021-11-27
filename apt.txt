@@ -1,6 +1,6 @@
 octave
-octave-image
-octave-io
-octave-statistics
+octave-image-2.6.2
+octave-io-2.4.10
+octave-statistics-1.3.0
 gnuplot
 ghostscript
